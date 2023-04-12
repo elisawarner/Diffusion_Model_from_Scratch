@@ -14,7 +14,9 @@ This code is a written implementation of the Diffusion model for Jupyter Noteboo
 4. Package: `os`  
 5. Package: `matplotlib`  
 6. Package: `jupyter`  
-7. For `Preprocess.ipynb`, Package: `glob`, `shutil`
+7. For `Preprocess.ipynb`, Package: `glob`, `shutil`  
+8. `pre_train_example.pth` : A pretrained 32x32 model example to load. This was trained for over 1200 epochs.  
+9. `results_example.txt` : An example output for the model.  
 
 ## Contents:
 1. `Preprocess.ipynb` \[Jupyter Notebook\]: This notebook contains code for moving the images downloaded from Kaggle into a single folder.  
